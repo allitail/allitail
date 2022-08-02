@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/HTML5-CA5534?style=flat-square&logo=HTML5&logoColor=fff"/>
+<img src="https://img.shields.io/badge/CSS3-719DC5?style=flat-square&logo=CSS3&logoColor=fff"/>
