@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallitail&count_bg=%23F9D85B&title_bg=%235CA8F3&icon=vue-dot-js.svg&icon_color=%2357BD85&title=vuenity%28univue%29%2Fgithub&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Univue GitHub stats](https://github-readme-stats.vercel.app/api?username=allitail&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/allitail/github-readme-status)
+![Univue GitHub stats](https://github-readme-stats.vercel.app/api?username=allitail&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)(https://github.com/allitail/github-readme-status)
 
 <img src="https://img.shields.io/badge/HTML5-CA5534?style=flat-square&logo=HTML5&logoColor=#D35736"/>
 
@@ -17,10 +17,5 @@
 <img src="https://img.shields.io/badge/THREE.JS-4FC08D?style=flat-square&logo=Three.js&logoColor=#1F2127"/>
 
 
-
-
-<img src="http://mazandi.herokuapp.com/api?handle={allitail}&theme=cold"/>
-
-<a href="https:/github.com/allitail"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallitail%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
