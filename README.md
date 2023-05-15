@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=#F9D85B"/>
 
-<img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=Vue.js&logoColor=#57BD85"/>
+<img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=Vuejs&logoColor=#57BD85"/>
 <img src="https://img.shields.io/badge/VUETIFY-1867C0?style=flat-square&logo=Vuetify&logoColor=#5CA8F3"/>
 
 <img src="https://img.shields.io/badge/THREE.JS-4FC08D?style=flat-square&logo=Three.js&logoColor=#1F2127"/>
