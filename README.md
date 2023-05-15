@@ -1,24 +1,23 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=Hi%20to%20vuenity%20FrameWork%20&animation=twinkling&fontSize=42&fontAlignY=44&fontAlign=80&height=242)
 
-<!--
-**allitail/allitail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallitail&count_bg=%23A2F3C7&title_bg=%23555555&icon=github.svg&icon_color=%23FEDEF4&title=univue%2Fgithub&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Here are some ideas to get you started:
+[![Univue GitHub stats](https://github-readme-stats.vercel.app/api?username=allitail&include_all_commits=true&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/allitail/github-readme-status)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/HTML5-CA5534?style=flat-square&logo=HTML5&logoColor=#D35736"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=#5399D1"/>
+<img src="https://img.shields.io/badge/SASS-719DC5?style=flat-square&logo=Sass&logoColor=#BF6C97"/>
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=#F9D85B"/>
+
+<img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=Vue.js&logoColor=#57BD85"/>
+<img src="https://img.shields.io/badge/VUETIFY-1867C0?style=flat-square&logo=VuetifyY&logoColor=#5CA8F3"/>
+
+<img src="https://img.shields.io/badge/THREE.JS-4FC08D?style=flat-square&logo=Three.js&logoColor=#1F2127"/>
 
 
-<img src="https://img.shields.io/badge/HTML5-CA5534?style=flat-square&logo=HTML5&logoColor=fff"/>
-<img src="https://img.shields.io/badge/CSS3-719DC5?style=flat-square&logo=CSS3&logoColor=fff"/>
-<img src="https://img.shields.io/badge/SASS-719DC5?style=flat-square&logo=Sass&logoColor=fff"/>
+
 
 <img src="http://mazandi.herokuapp.com/api?handle={allitail}&theme=cold"/>
 
