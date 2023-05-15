@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=Hi%20to%20vuenity%20FrameWork%20&animation=twinkling&fontSize=42&fontAlignY=44&fontAlign=80&height=242)
+![header](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&text=Hi%20to%20vuenity%20FrameWork%20&animation=twinkling&fontSize=42&fontAlignY=44&fontAlign=80&height=242)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallitail&count_bg=%23A2F3C7&title_bg=%23555555&icon=github.svg&icon_color=%23FEDEF4&title=univue%2Fgithub&edge_flat=false)](https://hits.seeyoufarm.com)
 
