@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallitail&count_bg=%23F9D85B&title_bg=%235CA8F3&icon=vue-dot-js.svg&icon_color=%2357BD85&title=vuenity%28univue%29%2Fgithub&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Vuenity(univue) GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/gangyuji/github-readme-status)
+[![Vuenity(univue) GitHub stats](https://github-readme-stats.vercel.app/api?username=vuenity(univue)&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/gangyuji/github-readme-status)
 
 <img src="https://img.shields.io/badge/HTML5-CA5534?style=flat-square&logo=HTML5&logoColor=#D35736"/>
 
