@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚌&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🌐&fontAlign=70)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+Vuenity+World&font=Redressed&size=40)](https://git.io/typing-svg)
 
