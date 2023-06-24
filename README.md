@@ -4,6 +4,14 @@
 
 [![Vuenity(univue) GitHub stats](https://github-readme-stats.vercel.app/api?username=allitail&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/gangyuji/github-readme-status)
 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuenity(univue)&exclude_repo=vuenity(univue).github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=yunity(univue)&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
+
 <img src="https://img.shields.io/badge/HTML5-CA5534?style=flat-square&logo=HTML5&logoColor=#D35736"/>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=#5399D1"/>
