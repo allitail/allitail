@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&text=Hello%20%20vuenity%20World%20&animation=twinkling&fontSize=42&fontAlignY=44&fontAlign=80&height=242)
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚌&fontAlign=70)
 
@@ -32,6 +32,8 @@
 <img src="https://img.shields.io/badge/VUETIFY-1867C0?style=flat-square&logo=Vuetify&logoColor=#5CA8F3"/>
 
 <img src="https://img.shields.io/badge/THREE.JS-4FC08D?style=flat-square&logo=Three.js&logoColor=#1F2127"/>
+
+<a href="https://opgc.me/#/users/allitail" target="_blank"><img src="https://api.opgc.me/githubs/users/allitail/tag/?theme=basic" /></a>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
