@@ -17,7 +17,8 @@
   <img src="https://raw.githubusercontent.com/allitail/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </a>
 
-[![vuenity's github activity graph](https://activity-graph.herokuapp.com/graph?username=allitail&theme=default)](https://github.com/allitail/github-readme-activity-graph)
+
+[![vuenity's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=allitail&theme=default)](https://github.com/allitail/github-readme-activity-graph)
 
 
 <img src="https://img.shields.io/badge/HTML5-CA5534?style=flat-square&logo=HTML5&logoColor=#D35736"/>
