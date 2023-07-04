@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/allitail/github-stats-transparent/output/generated/languages.svg" width="42%" />
 </a>
 
-![Vuenity(univue)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=allitail&show_icons=true&theme=radical)
+![Vuenity(univue)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=allitail&show_icons=true&theme=transparent)
 
 
 
