@@ -25,6 +25,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
+	<img src="https://github-readme-stats.vercel.app/api?username=allitail&show_icons=true">
+
 
 [![vuenity's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=allitail&theme=default)](https://github.com/allitail/github-readme-activity-graph)
 
