@@ -8,13 +8,10 @@
 
 [![Vuenity(univue) GitHub stats](https://github-readme-stats.vercel.app/api?username=allitail&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/gangyuji/github-readme-status)
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allitail&exclude_repo=allitail.github.io&layout=compact&theme=gruvbox" width="42%"  />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=allitail&theme=transparent&show_icons=true" width="42%" />
 
+<a href="s">
   <img src="https://raw.githubusercontent.com/allitail/github-stats-transparent/output/generated/languages.svg" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allitail&theme=transparent&show_icons=true" width="42%" />
 </a>
 
 
